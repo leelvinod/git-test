@@ -1,0 +1,2 @@
+HI
+this is my first commit trial learning to use git 
